@@ -2,6 +2,8 @@
 宁波轨道交通1号线闪灯图模拟
 -
 
+目前仅有中文版。
+
 这是一个简单的宁波轨道交通1号线闪灯图模拟。
 
 .exe文件下载: 
@@ -24,6 +26,9 @@ https://wwk.lanzoul.com/b00jdju0qj
 # English version 英文版
 Ningbo Rail Transit Line 1 flashing simulator
 -
+
+Only Chinese version currently.
+
 This is a simple simulator for Ningbo Rail Transit Line 1 flash.
 
 Download .exe file:
