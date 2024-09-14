@@ -11,11 +11,11 @@ https://wwk.lanzoul.com/b00jdju0qj
 
 密码: nbline01
 
-有bug请issues，有希望加入的功能请pull request。
+有bug请交issue，有希望加入的功能 可以交到issue, 推荐pull request。
 
 你可以自己修改源码，但请注明原作者名称。禁止售卖!
 
-作者：宁波轨道交通1号线（B站），本文件修改日期：2024年8月10日。
+作者：宁波轨道交通1号线（B站），本文件修改日期：2024年9月14日。
 
 代码最后修改时间：
 20240729
@@ -24,10 +24,10 @@ https://wwk.lanzoul.com/b00jdju0qj
 
 -----------------
 # English version 英文版
-Ningbo Rail Transit Line 1 flashing simulator
+Ningbo Rail Transit Line 1 Flashing Simulator
 -
 
-Only Chinese version currently.
+Only Chinese version in this program currently.
 
 This is a simple simulator for Ningbo Rail Transit Line 1 flash.
 
@@ -36,11 +36,12 @@ https://wwk.lanzoul.com/b00jdju0qj
 
 Password: nbline01
 
-For bugs, please submit issues, for wanted functions, please pull request.
+For bugs, please submit issues.
+For wanted functions, please submit at pull requests(recommended), or you can submit at issues.
 
 You may edit code, but please add original author's name. Selling is not allowed!
 
-Author: 宁波轨道交通1号线(Bilibili). Latest update(this file): Aug.10, 2024.
+Author: 宁波轨道交通1号线(Bilibili). Latest update(readme.md): Sep. 14, 2024.
 
 Latest update(code):
 20240729
